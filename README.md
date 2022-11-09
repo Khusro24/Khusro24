@@ -4,7 +4,6 @@ Post graduate in Business Analytics and Project Management discipline. Actively 
 
 💻 TECHNICAL SKILLS
 ☛ Machine Learning- Supervised, Unsupervised and Deep Learning  
-
 ☛ NLP - Topic modelling  
 
 ☛ Programming: Python, SAS, JavaScript, C/C++
